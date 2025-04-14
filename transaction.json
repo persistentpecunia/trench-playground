@@ -1,0 +1,60 @@
+{
+  "signature": "64gjQcxGe3MiBNBGjVyk7qsZFHCDDeph36ENPPzK7oyYtPT2v4Hru618HsEN6LxAtZfW9oQQNDnw7Bk6DNrUi2T9",
+  "swap": {
+    "sol_amount": 1.932696965,
+    "direction": "buy",
+    "other_token": {
+      "mint": "FK2yULkooeaNijTu5qGrvf5npjUCi8iGib9P5Euupump",
+      "decimals": 6,
+      "amount": 1045059.400783,
+      "usd": 192.6100758332471
+    },
+    "rates": {
+      "sol_per_token": 540725.9491313994,
+      "token_per_sol": 0.0000018493656566812821
+    },
+    "fee_paid": 5000
+  },
+  "token_details": {
+    "mint": "FK2yULkooeaNijTu5qGrvf5npjUCi8iGib9P5Euupump",
+    "meta": {
+      "name": "5gChipJFKjrAdrenochromeOrgy",
+      "symbol": "CABAL",
+      "decimals": 6,
+      "image_uri": "https://ipfs.io/ipfs/QmNjuHsjYmdAjmBLDfjj8vs1XtJqcVcq4SPP2TTahESyXL",
+      "dexscreener": {
+        "images": {
+          "small_image": "https://dd.dexscreener.com/ds-data/tokens/solana/FK2yULkooeaNijTu5qGrvf5npjUCi8iGib9P5Euupump.png?size=xl&key=655313",
+          "banner": "https://dd.dexscreener.com/ds-data/tokens/solana/FK2yULkooeaNijTu5qGrvf5npjUCi8iGib9P5Euupump/header.png?size=xl&key=655313"
+        },
+        "links": {
+          "pumpfun": "https://pump.fun/coin/FK2yULkooeaNijTu5qGrvf5npjUCi8iGib9P5Euupump"
+        }
+      }
+    },
+    "metrics": {
+      "market_cap": { "raw": 184304.22973789662, "display": "184.3K" },
+      "liquidity": { "raw": 56799.71437997749, "display": "56.8K" },
+      "usd_per_token": { "raw": 0.00018430538559715932, "display": "0" },
+      "holders": { "raw": 2275, "display": "2.28K" },
+      "volume_24h_usd": { "raw": 5307631.185461523, "display": "5.31M" },
+      "trades_24h": { "raw": 66503, "display": "66.5K" },
+      "unique_wallets_24h": { "raw": 8963, "display": "8.96K" },
+      "top_10_holders_percent": {
+        "raw": 25.64960723602509,
+        "display": "25.65%"
+      }
+    },
+    "securities": {
+      "mintable": false,
+      "freezable": false,
+      "mutable_metadata": false,
+      "ownership_renounced": false,
+      "created_timestamp": {
+        "raw": "2025-04-04T05:07:25Z",
+        "display": "4 Apr '25 · 5:07AM",
+        "relative": "10 hours ago"
+      }
+    }
+  }
+}

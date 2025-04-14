@@ -1,0 +1,25 @@
+{
+  "name": "trench-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.0",
+    "@discordjs/rest": "^2.4.2",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.8.4",
+    "chalk": "^5.4.1",
+    "discord-api-types": "^0.37.115",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "moment": "^2.30.1",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.0"
+  }
+}
